@@ -1,4 +1,9 @@
-{{!--{{#each model as |addon|}}--}}
-  {{!--{{addon.name}}--}}
-{{!--{{/each}}--}}
-Addons
+<ul>
+  {{#each model as |addon|}}
+    <li>
+      {{addon.name}} - {{addon.version}}
+    </li>
+  {{/each}}
+</ul>
+
+{{outlet}}
