@@ -1,11 +1,11 @@
-# Ember-vizualization
+# Ember-visualization
 
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd ember-vizualization`
+* `cd ember-visualization`
 * `npm install`
 * `bower install`
 
