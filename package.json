@@ -1,6 +1,6 @@
 {
   "name": "ember-visualization",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "The default blueprint for ember-cli addons.",
   "directories": {
     "doc": "doc",
@@ -11,7 +11,7 @@
     "start": "ember server",
     "test": "ember try:each"
   },
-  "repository": "",
+  "repository": "https://github.com/seawatts/ember-visualization",
   "engines": {
     "node": ">= 0.10.0"
   },
